@@ -63,7 +63,7 @@ Additionally, **interactive dashboards** in Power BI and Tableau provide visual 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/football-analytics.git
+   git clone https://github.com/vineeth917/football-analytics.git
    cd football-analytics
    ```
 
